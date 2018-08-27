@@ -75,7 +75,7 @@ title:
 
 > 注：如考虑安全性问题时，隐私信息也可调整为『点击后可见』的方式。
 
-### 完整、直接得阐述信息
+### 完整、直接地阐述信息
 
 <img class="preview-img no-padding good" align="right" src="https://gw.alipayobjects.com/zos/rmsportal/ioBKvBqCNzUwQDyjMiIa.png" alt="正确示范" description="用户可以从中了解了设置后会有什么好处。">
 <img class="preview-img no-padding bad" align="right" src="https://gw.alipayobjects.com/zos/rmsportal/EiwnPMETQAmWlHSGAWEX.png" alt="错误示范" description="用户感受不到设置的意义，不会去设置。">
